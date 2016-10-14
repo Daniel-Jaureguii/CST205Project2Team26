@@ -1,3 +1,5 @@
+# Multimedia project 2. Movie editor and soundboard: Tyler, Daniel, and Brandon Group 2
+
 import subprocess
 from tkinter import *
 from moviepy.editor import *
